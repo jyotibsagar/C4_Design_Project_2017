@@ -1,0 +1,14 @@
+﻿<Page x:Class="ApplicationNavigation.View.Page2"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Background="Azure" Height="400" Width="600" >
+
+
+    <Grid>
+        <Label x:Name="Lbl_Result" Content="GAME OVER" HorizontalAlignment="Left" Margin="166,157,0,0" VerticalAlignment="Top" FontSize="24"/>
+        
+    </Grid>
+
+
+
+
+</Page>
